@@ -9,9 +9,7 @@
 title: Russell Shepherd
 email: russleeshepherd@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am a data analyst and technologist based in Manila. I'm interested in using data
-  to answer real world questions and how organizations can learn to use data better. I am
-  currently CTO of Rappler and Reach Social.
+  Personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rlshepherd.github.io" # the base hostname & protocol for your site
 twitter_username: russellshepherd
@@ -19,3 +17,4 @@ github_username:  rlshepherd
 
 # Build settings
 markdown: kramdown
+theme: ronv/sidey
