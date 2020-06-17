@@ -17,4 +17,4 @@ github_username:  rlshepherd
 
 # Build settings
 markdown: kramdown
-theme: ronv/sidey
+remote_theme: ronv/sidey
